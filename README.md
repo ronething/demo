@@ -65,3 +65,7 @@ chrome bookmark analytics
 测试 django session 存储
 
 #### djangoBLOGDEMO
+
+#### daily-wechat
+
+网页版 wechat 机器人
