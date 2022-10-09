@@ -43,3 +43,7 @@ cordova demo
 #### bookmark
 
 chrome bookmark analytics
+
+#### calc-demo
+
+帮好兄弟写的计算公式 demo
