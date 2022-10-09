@@ -59,3 +59,8 @@ chrome bookmark analytics
 根据 Linux 系统应用与开发教程写的脚本程序
 
 #### tcp-chat-demo
+
+#### djangoSESSIONDEMO
+
+测试 django session 存储
+
