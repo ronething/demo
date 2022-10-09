@@ -64,3 +64,4 @@ chrome bookmark analytics
 
 测试 django session 存储
 
+#### djangoBLOGDEMO
