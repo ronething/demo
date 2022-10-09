@@ -49,3 +49,7 @@ chrome bookmark analytics
 帮好兄弟写的计算公式 demo
 
 #### async-demo
+
+#### rule-judge-python
+
+规则判断 demo
