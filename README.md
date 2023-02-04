@@ -69,3 +69,7 @@ chrome bookmark analytics
 #### daily-wechat
 
 网页版 wechat 机器人
+
+#### captcha
+
+验证码生成
